@@ -1,0 +1,22 @@
+[
+  { "word": "TAJMAHAL", "hint": "White marble tomb in Agra.", "cat": "Monuments" },
+  { "word": "RED FORT", "hint": "Massive sandstone fortification in Delhi.", "cat": "Monuments" },
+  { "word": "QUTU MINAR", "hint": "Tallest brick minaret in the world.", "cat": "Monuments" },
+  { "word": "CHARMINAR", "hint": "Four-pillared mosque in Hyderabad.", "cat": "Monuments" },
+  { "word": "AMER FORT", "hint": "Palace complex on a hill in Jaipur.", "cat": "Monuments" },
+  { "word": "HAR MANDIR", "hint": "The Golden Temple in Amritsar.", "cat": "Monuments" },
+  { "word": "GATEWAY", "hint": "Arch-monument built in Mumbai.", "cat": "Monuments" },
+  { "word": "HUMAYUN TOMB", "hint": "First garden-tomb in India.", "cat": "Monuments" },
+  { "word": "HAWA MAHAL", "hint": "The Palace of Winds in Jaipur.", "cat": "Monuments" },
+  { "word": "KONARK", "hint": "Sun Temple shaped like a giant chariot.", "cat": "Monuments" },
+  { "word": "AJANTA", "hint": "Cave monuments with ancient paintings.", "cat": "Monuments" },
+  { "word": "ELLORA", "hint": "Monolithic Kailash temple is found here.", "cat": "Monuments" },
+  { "word": "GOLCONDA", "hint": "Fortified citadel near Hyderabad.", "cat": "Monuments" },
+  { "word": "VICTORIA", "hint": "Memorial hall built in Kolkata.", "cat": "Monuments" },
+  { "word": "MYSORE PALACE", "hint": "Royal residence in Karnataka.", "cat": "Monuments" },
+  { "word": "SANCHI STUPA", "hint": "Oldest stone structure in India.", "cat": "Monuments" },
+  { "word": "MEENAKSHI", "hint": "Historic Hindu temple in Madurai.", "cat": "Monuments" },
+  { "word": "INDIA GATE", "hint": "War memorial located on Rajpath, Delhi.", "cat": "Monuments" },
+  { "word": "LOTUS TEMPLE", "hint": "Bahai House of Worship in Delhi.", "cat": "Monuments" },
+  { "word": "KHajuraho", "hint": "Temple group famous for erotic sculptures.", "cat": "Monuments" }
+]
