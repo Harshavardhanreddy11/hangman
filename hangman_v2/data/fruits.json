@@ -1,0 +1,22 @@
+[
+  { "word": "PINEAPPLE", "hint": "Spiky tropical fruit with sweet yellow flesh.", "cat": "Fruits" },
+  { "word": "STRAWBERRY", "hint": "Red fruit with seeds on the outside.", "cat": "Fruits" },
+  { "word": "WATERMELON", "hint": "Large green fruit that is red inside.", "cat": "Fruits" },
+  { "word": "BANANA", "hint": "Long yellow fruit that is easy to peel.", "cat": "Fruits" },
+  { "word": "BLUEBERRY", "hint": "Small round fruit that is dark blue.", "cat": "Fruits" },
+  { "word": "MANGO", "hint": "Tropical fruit with a large central stone.", "cat": "Fruits" },
+  { "word": "CHERRY", "hint": "Small, round red fruit with a pit.", "cat": "Fruits" },
+  { "word": "AVOCADO", "hint": "Green fruit with creamy flesh and a large seed.", "cat": "Fruits" },
+  { "word": "POMEGRANATE", "hint": "Fruit filled with many juicy red seeds.", "cat": "Fruits" },
+  { "word": "ORANGE", "hint": "Citrus fruit named after its color.", "cat": "Fruits" },
+  { "word": "GRAPES", "hint": "Small fruits that grow in bunches.", "cat": "Fruits" },
+  { "word": "KIWI", "hint": "Small brown fuzzy fruit with green inside.", "cat": "Fruits" },
+  { "word": "PEACH", "hint": "Fuzzy fruit with a sweet juicy center.", "cat": "Fruits" },
+  { "word": "RASPBERRY", "hint": "Red bumpy fruit used in jams.", "cat": "Fruits" },
+  { "word": "PAPAYA", "hint": "Orange tropical fruit with black seeds.", "cat": "Fruits" },
+  { "word": "LEMON", "hint": "Sour yellow citrus fruit.", "cat": "Fruits" },
+  { "word": "COCONUT", "hint": "Hard brown shell with white meat and milk.", "cat": "Fruits" },
+  { "word": "DRAGONFRUIT", "hint": "Pink fruit with white flesh and black seeds.", "cat": "Fruits" },
+  { "word": "APRICOT", "hint": "Small orange fruit similar to a peach.", "cat": "Fruits" },
+  { "word": "PEAR", "hint": "Bell-shaped fruit that is sweet and grainy.", "cat": "Fruits" }
+]

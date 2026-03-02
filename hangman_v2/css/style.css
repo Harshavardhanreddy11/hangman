@@ -1,0 +1,54 @@
+:root {
+    --primary: #5c6bc0;
+    --card-bg: #ffffff;
+    --key-bg: #7986cb;
+    --text: #333;
+    --danger: #d32f2f;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    background-color: var(--primary);
+    display: flex; justify-content: center; align-items: center;
+    height: 100vh; margin: 0;
+}
+
+.controls-wrapper { display: flex; gap: 10px; margin-bottom: 20px; }
+
+.styled-select, .upload-btn {
+    padding: 10px 15px; border-radius: 8px; border: none;
+    background: var(--card-bg); cursor: pointer; font-weight: bold; font-size: 0.9rem;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.main-card {
+    background: var(--card-bg); padding: 35px; border-radius: 15px;
+    display: flex; gap: 40px; box-shadow: 0 15px 35px rgba(0,0,0,0.3); min-width: 800px;
+}
+
+.left-panel { border-right: 2px solid #f0f0f0; padding-right: 40px; text-align: center; }
+
+.stats-bar { display: flex; justify-content: space-between; margin-bottom: 15px; }
+
+.stat { background: #f0f2f5; padding: 6px 15px; border-radius: 20px; font-weight: bold; }
+
+.word-display { font-size: 2.8rem; letter-spacing: 12px; margin: 25px 0; color: var(--text); font-family: monospace; }
+
+.keyboard { display: grid; grid-template-columns: repeat(9, 1fr); gap: 6px; }
+
+.keyboard button {
+    background: var(--key-bg); color: white; border: none;
+    padding: 12px; border-radius: 6px; cursor: pointer; font-weight: bold; transition: 0.2s;
+}
+
+.keyboard button:hover:not(:disabled) { background: var(--primary); transform: translateY(-2px); }
+
+.keyboard button:disabled { opacity: 0.4; cursor: not-allowed; }
+
+.nav-controls { display: flex; justify-content: space-between; margin-top: 25px; gap: 10px; }
+
+.nav-btn { flex: 1; padding: 12px; border: none; background: #f0f2f5; color: var(--primary); font-weight: bold; border-radius: 8px; cursor: pointer; }
+
+.reset-btn { margin-top: 15px; width: 100%; padding: 14px; background: var(--text); color: white; border: none; border-radius: 8px; cursor: pointer; display: none; }
+
+.danger { color: var(--danger); font-weight: bold; }
